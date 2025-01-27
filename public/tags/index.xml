@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on נבו רימר</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on נבו רימר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <managingEditor>work@n3vo.dev (היי אני נבו 👋)</managingEditor>
+    <webMaster>work@n3vo.dev (היי אני נבו 👋)</webMaster>
+    <copyright>© כל הזכויות שמורות</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/tags/hugo/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>work@n3vo.dev (היי אני נבו 👋)</author>
+      <guid>https://example.org/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/tags/markdown/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>work@n3vo.dev (היי אני נבו 👋)</author>
+      <guid>https://example.org/tags/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>עברית</title>
+      <link>https://example.org/tags/%D7%A2%D7%91%D7%A8%D7%99%D7%AA/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>work@n3vo.dev (היי אני נבו 👋)</author>
+      <guid>https://example.org/tags/%D7%A2%D7%91%D7%A8%D7%99%D7%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

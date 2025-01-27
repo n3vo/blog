@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on נבו רימר</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on נבו רימר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <managingEditor>work@n3vo.dev (היי אני נבו 👋)</managingEditor>
+    <webMaster>work@n3vo.dev (היי אני נבו 👋)</webMaster>
+    <copyright>© כל הזכויות שמורות</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>דוגמאות</title>
+      <link>https://example.org/categories/%D7%93%D7%95%D7%92%D7%9E%D7%90%D7%95%D7%AA/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>work@n3vo.dev (היי אני נבו 👋)</author>
+      <guid>https://example.org/categories/%D7%93%D7%95%D7%92%D7%9E%D7%90%D7%95%D7%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

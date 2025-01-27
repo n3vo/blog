@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>נבו רימר</title>
+    <link>https://example.org/</link>
+    <description>Recent content on נבו רימר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <managingEditor>work@n3vo.dev (היי אני נבו 👋)</managingEditor>
+    <webMaster>work@n3vo.dev (היי אני נבו 👋)</webMaster>
+    <copyright>© כל הזכויות שמורות</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>הדגמת פיצ&#39;רים של Markdown</title>
+      <link>https://example.org/posts/%D7%91%D7%9C%D7%95%D7%92/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>work@n3vo.dev (היי אני נבו 👋)</author>
+      <guid>https://example.org/posts/%D7%91%D7%9C%D7%95%D7%92/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
