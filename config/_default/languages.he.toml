@@ -19,7 +19,7 @@ title = "נבו רימר"
  [params.author]
    name = "היי אני נבו 👋"
    email = "work@n3vo.dev"
-   image = "img/babyMe.jpg"
+#  image = "img/babyMe.jpg"
    imageQuality = 96
    headline = "אין לי מושג למה בניתי אתר"
    bio = "אין לי מושג למה בניתי אתר"
